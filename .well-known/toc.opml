@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+	<head>
+		<title>Steven de Best</title>
+		<dateModified>Fri, 20 Nov 2026 04:38:00 GMT</dateModified>
+		</head>
+	<body>
+		<outline text="Hello world" type="link" url="https://stevendeb.github.io/steven-intro/index.md" />
+		<outline text="AI and consciousness" type="link" url="https://stevendeb.github.io/steven-intro/ai-and-consciousness.md" />
+		</body>
+	</opml>
